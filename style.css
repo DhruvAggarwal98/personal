@@ -1,0 +1,156 @@
+
+.experiences{
+background-color:cdced6;
+width:1280px;
+padding-right: 100px;
+padding-left: 100px;
+padding-bottom: 0px;
+text-align: justify;
+font-family: "Courier New";
+margin-bottom:0px;
+} 
+.iphone1{
+	display: block;
+	
+	height: 500px;
+	width: 300px;
+	margin-bottom: 0px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.social{
+	font-family:"Courier New";
+	background-color:cdced6; 
+}
+.logo{
+	border-radius: 50%;
+	height: 50px; 
+	text-align: left;
+}
+.logo2{
+	border-radius: 50%;
+	height: 60px; 
+	width:60px;
+	margin-left: 30px;
+	margin-top: -10px;
+	text-decoration: none;
+}
+.logo2:hover{
+	opacity: .7;
+	text-decoration: none;
+}
+#classwork.relavant
+ {
+	list-style-type: circle;
+}
+.Skills1{
+	float: left;
+	border-radius: 25px;
+	border: 2px solid #89b0ed;
+	width: 80px;
+	height: 25px;
+	text-align: center;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+
+.end{
+	text-align: center;
+	text-decoration: none;
+	font-size: 30x;
+	margin-bottom: 0px;
+
+}
+
+	.wholepage{
+		padding-bottom: 30px;
+		margin-top: 0px;
+	}
+	.jumbotron{
+		background-image: url(/Users/DhruvMac/Documents/College/WebSite/Background7.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+		width: auto;
+		height: 400px;
+		opacity: 1;
+		background-blend-mode: darken;
+		margin-top: 0px;
+	}
+	.textinJ{
+		text-align: left;
+		margin-top: 75px;
+		font-size: 70px;
+		color:#fff8cc;
+	}
+
+	.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: static; 
+  width: 100%;
+  margin-bottom: 0px;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-bottom: 0px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+.fa{
+	padding: 15px;
+  font-size: 30px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 5px;
+  margin-left: 415px;
+  border-radius: 50%;
+}
+.fa:hover {
+    opacity: 0.7;
+    text-decoration: none;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-twitter{
+	background: #55ACEE;
+  color: white;
+  margin-left: 30px;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+  margin-left: 30px;
+}
+
+.certificationstext{
+	
+	font-family: "Courier New";
+	background-color:cdced6;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	padding-bottom: 0px;
+}
+.certificationspics{
+	width: 500px;
+	margin-left: 60px;
+	margin-right: 70px;
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
+
